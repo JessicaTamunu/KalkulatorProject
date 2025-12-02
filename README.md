@@ -35,4 +35,5 @@ Program akan menampilkan menu:
 4. Bagi
 Lalu pengguna memasukkan angka dan hasil akan muncul.
 
+# Dokumentasi Teknis
 ![GAMBAR FLOWCHART](<FLOWCHART.png>)
