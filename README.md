@@ -45,3 +45,7 @@ Setelah mendapatkan kedua angka, program memasuki tahap percabangan berdasarkan 
 
 Setelah operasi selesai, apa pun jenis hasilnya—baik angka maupun pesan error—program akan menampilkannya kepada pengguna. Pada tahap akhir, flowchart menunjukkan bahwa proses berakhir dengan simbol “Selesai”. Secara keseluruhan, flowchart ini menjelaskan dengan jelas bagaimana sebuah kalkulator sederhana bekerja, mulai dari input, pemilihan operasi, pengecekan kondisi khusus, hingga menampilkan hasil kepada pengguna.
 
+NAMA|NIM|LINK AKUN GITHUB
+:---|:---|:---
+Jessica Aurelia Syalomitha Tamunu|250211060079|<https://github.com/JessicaTamunu>
+
