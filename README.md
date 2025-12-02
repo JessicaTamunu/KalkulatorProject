@@ -13,3 +13,11 @@ Fitur Utama:
 - Menyediakan menu interaktif yang memudahkan pengguna memilih operasi
 - Meminta input dua angka dan langsung menampilkan hasil perhitungan
 
+# Panduan Instalasi
+Pastikan Python sudah terinstal (program menggunakan Python 3.13.7)
+
+Clone repository:
+git clone <https://github.com/JessicaTamunu/KalkulatorProject.git>
+
+Masuk ke folder project
+cd KalkulatorProject
