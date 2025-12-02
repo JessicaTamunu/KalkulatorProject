@@ -49,4 +49,4 @@ NO|NAMA|NIM|LINK AKUN GITHUB
 :---|:---|:---|:---
 1.|Jessica Aurelia Syalomitha Tamunu|250211060079|<https://github.com/JessicaTamunu>
 2.|Cinta Marchella Pangemanan|250211060001|<https://github.com/CintaMarchellaPangemanan83>
-
+3.|Shiren Keysi Korah|250211060101|<https://github.com/ShirenKeysiKorah>
