@@ -34,3 +34,5 @@ Program akan menampilkan menu:
 3. Kali
 4. Bagi
 Lalu pengguna memasukkan angka dan hasil akan muncul.
+
+![GAMBAR FLOWCHART](<FLOWCHART.png>)
