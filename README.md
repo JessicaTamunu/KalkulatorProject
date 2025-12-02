@@ -21,3 +21,16 @@ git clone <https://github.com/JessicaTamunu/KalkulatorProject.git>
 
 Masuk ke folder project
 cd KalkulatorProject
+
+# Panduan Menjalankan Program
+Jalankan file Python utama:
+python Kalkulator.py
+
+Program akan menampilkan menu:
+
+=== KALKULATOR SEDERHANA ===
+1. Tambah
+2. Kurang
+3. Kali
+4. Bagi
+Lalu pengguna memasukkan angka dan hasil akan muncul.
