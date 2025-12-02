@@ -1,11 +1,11 @@
-Judul Program: 
+# Judul Program: 
 Kalkulator Sederhana
 
-Pendahuluan: 
+# Pendahuluan: 
 Program ini adalah aplikasi kalkulator sederhana yang berjalan pada terminal/command prompt.
 Pengguna dapat memasukkan dua angka dan memilih jenis operasi yang ingin digunakan. Program kemudian akan menampilkan hasil perhitungan.Tujuan pembuatan aplikasi ini adalah untuk melatih dasar-dasar pemrograman Python, seperti fungsi, input/output, dan percabangan.
 
-Fitur Utama:
+# Fitur Utama:
 - Melakukan operasi penjumlahan (tambah)
 - Melakukan operasi pengurangan (kurang)
 - Melakukan operasi perkalian (kali)
@@ -45,7 +45,8 @@ Setelah mendapatkan kedua angka, program memasuki tahap percabangan berdasarkan 
 Setelah operasi selesai, apa pun jenis hasilnya—baik angka maupun pesan error—program akan menampilkannya kepada pengguna. Pada tahap akhir, flowchart menunjukkan bahwa proses berakhir dengan simbol “Selesai”. Secara keseluruhan, flowchart ini menjelaskan dengan jelas bagaimana sebuah kalkulator sederhana bekerja, mulai dari input, pemilihan operasi, pengecekan kondisi khusus, hingga menampilkan hasil kepada pengguna.
 
 # Daftar Kontributor 
-NAMA|NIM|LINK AKUN GITHUB
-:---|:---|:---
-Jessica Aurelia Syalomitha Tamunu|250211060079|<https://github.com/JessicaTamunu>
+NO|NAMA|NIM|LINK AKUN GITHUB
+:---|:---|:---|:---
+1.|Jessica Aurelia Syalomitha Tamunu|250211060079|<https://github.com/JessicaTamunu>
+2.|Cinta Marchella Pangemanan|250211060001|<https://github.com/CintaMarchellaPangemanan83>
 
