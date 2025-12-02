@@ -37,3 +37,11 @@ Lalu pengguna memasukkan angka dan hasil akan muncul.
 
 # Dokumentasi Teknis
 ![GAMBAR FLOWCHART](<FLOWCHART.png>)
+
+# Penjelasan
+Flowchart tersebut menggambarkan alur kerja sebuah program kalkulator sederhana yang dapat melakukan empat operasi dasar, yaitu penjumlahan, pengurangan, perkalian, dan pembagian. Proses dimulai dari simbol “Mulai”, lalu program menampilkan menu yang berisi pilihan operasi matematika. Pengguna kemudian diminta memilih salah satu operasi dengan memasukkan angka 1 sampai 4. Setelah itu, program meminta dua input angka, yaitu angka pertama dan angka kedua, yang akan digunakan sebagai operand dalam proses perhitungan.
+
+Setelah mendapatkan kedua angka, program memasuki tahap percabangan berdasarkan pilihan operasi. Jika pengguna memilih penjumlahan, maka program akan menghitung nilai a + b. Jika memilih pengurangan, program akan memproses a – b. Apabila pilihan adalah perkalian, hasil yang dihitung adalah a × b. Namun, khusus untuk pembagian, program harus memastikan bahwa angka kedua (b) tidak bernilai nol. Oleh karena itu, flowchart memberikan percabangan tambahan untuk memeriksa apakah b sama dengan nol. Jika b bernilai nol, program menampilkan pesan kesalahan bahwa pembagian tidak dapat dilakukan. Jika b bukan nol, maka perhitungan a ÷ b dilakukan seperti biasa.
+
+Setelah operasi selesai, apa pun jenis hasilnya—baik angka maupun pesan error—program akan menampilkannya kepada pengguna. Pada tahap akhir, flowchart menunjukkan bahwa proses berakhir dengan simbol “Selesai”. Secara keseluruhan, flowchart ini menjelaskan dengan jelas bagaimana sebuah kalkulator sederhana bekerja, mulai dari input, pemilihan operasi, pengecekan kondisi khusus, hingga menampilkan hasil kepada pengguna.
+
